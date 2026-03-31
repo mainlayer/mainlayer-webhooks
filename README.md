@@ -1,6 +1,6 @@
 # mainlayer-webhooks
 
-Official webhook signature verification and event parsing library for [Mainlayer](https://mainlayer.com) — payment infrastructure for AI agents.
+Official webhook signature verification and event parsing library for [Mainlayer](https://mainlayer.fr) — payment infrastructure for AI agents.
 
 Available in **TypeScript/JavaScript** and **Python**.
 

@@ -35,7 +35,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://mainlayer.com"
+Homepage = "https://mainlayer.fr"
 Documentation = "https://docs.mainlayer.com/webhooks"
 Repository = "https://github.com/mainlayer/mainlayer-python"
 
