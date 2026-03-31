@@ -79,7 +79,7 @@ jobs:
           cache: pip
 
       - name: Install package and dev dependencies
-        run: pip install -e ".[dev]"
+        run: pip install git+https://github.com/mainlayer/mainlayer-python.git && pip install -e ".[dev]"
 
       - name: Lint with ruff
         run: ruff check src tests
